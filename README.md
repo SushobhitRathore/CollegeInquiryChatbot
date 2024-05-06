@@ -1,1 +1,1 @@
-# CollegeInquryChatbot
+# CollegeInquiryChatbot
